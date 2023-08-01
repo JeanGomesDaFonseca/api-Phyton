@@ -1,9 +1,9 @@
-import googlemaps
+import googlemaps 
 import csv
 import requests
 
 # Configurar a API do Google Maps com sua chave de API
-gmaps = googlemaps.Client(key='AIzaSyDQYsgnzTrERfFWoM2pu3kjDQ-JVYCIXl8')
+gmaps = googlemaps.Client(key='AIzaSyBXjMV6UJ2gbmqtneesNy7Tw0fsaHHkB_8')
 
 # Lista para armazenar os dados de todos os estabelecimentos
 estabelecimentosDados = []
